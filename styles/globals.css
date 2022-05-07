@@ -32,10 +32,17 @@ a {
 button {
   padding: 10px;
   margin: 0px 5px;
+  font-size: 1.5rem;
+  border: none;
+  color: var(--main-color);
+
 }
 
 .mt-2{
   margin-top: 20px;
+}
+.mt-3 {
+  margin-top: 30px;
 }
 .mr-2{
   margin-right: 20px;

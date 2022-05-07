@@ -7,7 +7,7 @@ export default function Template(props){
     return (
         <>
         <div className={styles.header}>
-            <h1>Pomodoro</h1>
+            <h1>Pomodoro app</h1>
         </div>
         <div className={styles.content}>
             { props.children }
